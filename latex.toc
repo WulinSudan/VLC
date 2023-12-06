@@ -1,0 +1,14 @@
+\babel@toc {catalan}{}\relax 
+\contentsline {section}{\numberline {1}Que és la Comunicació amb llum visible}{2}{section.1}%
+\contentsline {subsection}{Introducció}{2}{section*.2}%
+\contentsline {subsection}{El mercat del visible Light communication}{3}{section*.3}%
+\contentsline {section}{\numberline {2}Historia de les comunicacions inalámbriques}{3}{section.2}%
+\contentsline {section}{\numberline {3}Què és LiFi?}{3}{section.3}%
+\contentsline {section}{\numberline {4}Problemes de les cominicacions RF}{4}{section.4}%
+\contentsline {section}{\numberline {5}Actuals àrees d'investigació}{4}{section.5}%
+\contentsline {section}{\numberline {6}Productes LiFi}{4}{section.6}%
+\contentsline {section}{\numberline {7}A cara del futur}{4}{section.7}%
+\contentsline {section}{\numberline {8}Relacionar IEEE amb VLC}{4}{section.8}%
+\contentsline {section}{\numberline {9}Altres tecnologies inalàmbriques}{4}{section.9}%
+\contentsline {section}{\numberline {10}Conclusió}{4}{section.10}%
+\contentsline {section}{\numberline {11}Bibliografies}{4}{section.11}%
