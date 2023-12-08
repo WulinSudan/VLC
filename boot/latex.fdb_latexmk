@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1701857378 "c:/Users/sudan/OneDrive/桌面/VLC/latex.tex" "boot/latex.pdf" "latex" 1701857381 0
-  "Bibliografies.tex" 1701855808 185 427cd9cd7bb279341a0c0416d6fb9ac3 ""
+["pdflatex"] 1702031077 "c:/Users/sudan/OneDrive/桌面/VLC/latex.tex" "boot/latex.pdf" "latex" 1702031080 0
+  "Bibliografies.tex" 1702031078 203 c817e5aa092fa472e466d81f149ce13d ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1678226789 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1674147760 11548 b1305544a961273516dcefaf14a51dd7 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1674146947 10788010 bf4ab499b0eda2b302d672622aafb306 ""
@@ -82,11 +82,11 @@
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/x11nam.def" 1656233290 9124 8aaebcf7eff7655936dd67b677fbd2b0 ""
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Introduccio.tex" 1701857374 5439 bc9b21dbe9ef3573f23070b5e68cf6bd ""
+  "Introduccio.tex" 1702031051 5546 e40e8ba8de670012dd6246816978b187 ""
   "LiFi.tex" 1701855808 1386 7311755f34d68853b2810fea19b1b906 ""
-  "boot/latex.aux" 1701857381 2220 760595b6897856680f3e2d2fba486af7 "pdflatex"
-  "boot/latex.out" 1701857381 2276 acbee7d5fcc3618656a757f7adf88069 "pdflatex"
-  "boot/latex.toc" 1701857381 1063 6424be38acdbfa15e8f3f22b22eacee7 "pdflatex"
+  "boot/latex.aux" 1702031080 2405 3e89ad8e9814049c94742b8c54c8c184 "pdflatex"
+  "boot/latex.out" 1702031080 2276 acbee7d5fcc3618656a757f7adf88069 "pdflatex"
+  "boot/latex.toc" 1702031080 1063 6424be38acdbfa15e8f3f22b22eacee7 "pdflatex"
   "c:/Users/sudan/OneDrive/桌面/VLC/latex.tex" 1701855808 1622 8c25c6bc7d3fa7f67d10433ce0e859f5 ""
   "images//llumVisible.png" 1701855808 82692 5d95046e4265080277c87dc303397f48 ""
   "images//logoUdG.png" 1701855808 17208 4d09bedbbcd79a53956ddc2008b7d78a ""
