@@ -1,14 +1,20 @@
 \babel@toc {catalan}{}\relax 
 \contentsline {section}{\numberline {1}Que és la Comunicació amb llum visible}{2}{section.1}%
 \contentsline {subsection}{Introducció}{2}{section*.2}%
-\contentsline {subsection}{El mercat del visible Light communication}{3}{section*.3}%
-\contentsline {section}{\numberline {2}Historia de les comunicacions inalámbriques}{4}{section.2}%
-\contentsline {section}{\numberline {3}Què és LiFi?}{4}{section.3}%
-\contentsline {section}{\numberline {4}Problemes de les cominicacions RF}{4}{section.4}%
-\contentsline {section}{\numberline {5}Actuals àrees d'investigació}{4}{section.5}%
-\contentsline {section}{\numberline {6}Productes LiFi}{4}{section.6}%
-\contentsline {section}{\numberline {7}A cara del futur}{4}{section.7}%
-\contentsline {section}{\numberline {8}Relacionar IEEE amb VLC}{4}{section.8}%
-\contentsline {section}{\numberline {9}Altres tecnologies inalàmbriques}{4}{section.9}%
-\contentsline {section}{\numberline {10}Conclusió}{4}{section.10}%
-\contentsline {section}{\numberline {11}Bibliografies}{4}{section.11}%
+\contentsline {subsection}{Altres tecnologies inalàmbriques}{3}{section*.3}%
+\contentsline {section}{\numberline {2}Historia de VLC}{3}{section.2}%
+\contentsline {subsection}{senyal del far}{3}{section*.4}%
+\contentsline {subsection}{Bell va patentar el fotòfon el 1880}{3}{section*.6}%
+\contentsline {subsection}{Primer LED Li-Fi}{4}{section*.8}%
+\contentsline {section}{\numberline {3}LiFi, el futur de les comunucacions VLC}{5}{section.3}%
+\contentsline {subsection}{Què és la tecnologia Li-Fi i com funciona?}{5}{section*.9}%
+\contentsline {subsection}{Sostenibilitat: menor cost i més eficiència}{6}{section*.11}%
+\contentsline {subsection}{Seguridad contra ataques}{6}{section*.12}%
+\contentsline {subsection}{Incovenients de Li-Fi}{6}{section*.13}%
+\contentsline {subsection}{Productes Li-Fi}{6}{section*.14}%
+\contentsline {section}{\numberline {4}Relacionar IEEE amb VLC}{6}{section.4}%
+\contentsline {section}{\numberline {5}Conclusió}{6}{section.5}%
+\contentsline {subsection}{A cares del futur}{6}{section*.15}%
+\contentsline {section}{\numberline {6}Mercat futur de VLC}{7}{section.6}%
+\contentsline {subsection}{El mercat del visible Light communication}{7}{section*.16}%
+\contentsline {section}{\numberline {7}Bibliografies}{9}{section.7}%
