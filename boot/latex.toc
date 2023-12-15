@@ -1,20 +1,24 @@
 \babel@toc {catalan}{}\relax 
 \contentsline {section}{\numberline {1}Que és la Comunicació amb llum visible}{2}{section.1}%
 \contentsline {subsection}{Introducció}{2}{section*.2}%
-\contentsline {subsection}{Altres tecnologies inalàmbriques}{3}{section*.3}%
+\contentsline {subsection}{Tecnologies inalàmbriques}{2}{section*.4}%
 \contentsline {section}{\numberline {2}Historia de VLC}{3}{section.2}%
-\contentsline {subsection}{senyal del far}{3}{section*.4}%
-\contentsline {subsection}{Bell va patentar el fotòfon el 1880}{3}{section*.6}%
-\contentsline {subsection}{Primer LED Li-Fi}{4}{section*.8}%
-\contentsline {section}{\numberline {3}LiFi, el futur de les comunucacions VLC}{5}{section.3}%
-\contentsline {subsection}{Què és la tecnologia Li-Fi i com funciona?}{5}{section*.9}%
-\contentsline {subsection}{Sostenibilitat: menor cost i més eficiència}{6}{section*.11}%
-\contentsline {subsection}{Seguridad contra ataques}{6}{section*.12}%
-\contentsline {subsection}{Incovenients de Li-Fi}{6}{section*.13}%
-\contentsline {subsection}{Productes Li-Fi}{6}{section*.14}%
-\contentsline {section}{\numberline {4}Relacionar IEEE amb VLC}{6}{section.4}%
-\contentsline {section}{\numberline {5}Conclusió}{6}{section.5}%
-\contentsline {subsection}{A cares del futur}{6}{section*.15}%
-\contentsline {section}{\numberline {6}Mercat futur de VLC}{7}{section.6}%
-\contentsline {subsection}{El mercat del visible Light communication}{7}{section*.16}%
-\contentsline {section}{\numberline {7}Bibliografies}{9}{section.7}%
+\contentsline {subsection}{Senyal del far}{3}{section*.5}%
+\contentsline {subsection}{1841: Descubriment de Reflexió total}{3}{section*.7}%
+\contentsline {subsection}{1880: Bell va patentar el fotòfon}{3}{section*.9}%
+\contentsline {subsection}{Altres treballs}{4}{section*.11}%
+\contentsline {subsection}{Primer LED Li-Fi}{4}{section*.12}%
+\contentsline {subsection}{Altres treballs recents}{4}{section*.13}%
+\contentsline {section}{\numberline {3}Li-Fi, el futur de les comunicacions VLC}{6}{section.3}%
+\contentsline {subsection}{Què és la tecnologia Li-Fi i com funciona?}{6}{section*.14}%
+\contentsline {subsection}{Avantatges de Li-Fi}{6}{section*.16}%
+\contentsline {subsection}{Incovenients de Li-Fi}{6}{section*.19}%
+\contentsline {subsection}{Wi-fi (Wireless Fidelity) vs Li-Fi (Light Fidelity)}{7}{section*.20}%
+\contentsline {subsection}{Productes Li-Fi}{7}{section*.22}%
+\contentsline {section}{\numberline {4}Mercat futur de VLC}{9}{section.4}%
+\contentsline {subsection}{Anàlisi de mercat VLC}{9}{section*.28}%
+\contentsline {subsection}{Tendències del mercat VLC}{9}{section*.30}%
+\contentsline {section}{\numberline {5}Conclusió}{11}{section.5}%
+\contentsline {subsection}{Què tan a prop estem de fer servir LiFi?}{11}{section*.32}%
+\contentsline {subsection}{Futur del Li-Fi}{11}{section*.33}%
+\contentsline {section}{\numberline {6}Bibliografies}{12}{section.6}%
