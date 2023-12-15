@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.7)  15 DEC 2023 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.7)  15 DEC 2023 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sudan/Desktop/VLC-1/latex.tex
-(c:/Users/sudan/Desktop/VLC-1/latex.tex
+**c:/Users/sudan/Desktop/VLC/latex.tex
+(c:/Users/sudan/Desktop/VLC/latex.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -388,33 +388,48 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 \c@lotdepth=\count311
 \sf@top=\skip73
 \sf@bottom=\skip74
+) (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen183
+\ar@mcellbox=\box63
+\extrarowheight=\dimen184
+\NC@list=\toks30
+\extratabsurround=\skip75
+\backup@length=\skip76
+\ar@cellbox=\box64
+) (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip77
+\multirow@cntb=\count312
+\multirow@dima=\skip78
+\bigstrutjot=\dimen185
 ) (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count312
-\l__pdf_internal_box=\box63
+\l__color_backend_stack_int=\count313
+\l__pdf_internal_box=\box65
 ) (latex.aux)
 \openout1 = `latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Info: Redefining \l on input line 30.
-LaTeX Info: Redefining \L on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \l on input line 32.
+LaTeX Info: Redefining \L on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -450,27 +465,27 @@ LaTeX Info: Redefining \L on input line 30.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count313
+\c@lstlisting=\count314
 (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count314
-\scratchdimen=\dimen183
-\scratchbox=\box64
-\nofMPsegments=\count315
-\nofMParguments=\count316
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count317
-\MPscratchDim=\dimen184
-\MPnumerator=\count318
-\makeMPintoPDFobject=\count319
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count315
+\scratchdimen=\dimen186
+\scratchbox=\box66
+\nofMPsegments=\count316
+\nofMParguments=\count317
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen187
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
+\everyMPtoPDFconversion=\toks32
 ) (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 32.
  (latex.out) (latex.out)
 \@outlinefile=\write3
 \openout3 = `latex.out'.
@@ -478,10 +493,10 @@ Package hyperref Info: Link coloring OFF on input line 30.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-<images//logoUdG.png, id=87, 592.46344pt x 149.8097pt>
+<images//logoUdG.png, id=83, 592.46344pt x 149.8097pt>
 File: images//logoUdG.png Graphic file (type png)
 <use images//logoUdG.png>
-Package pdftex.def Info: images//logoUdG.png  used on input line 34.
+Package pdftex.def Info: images//logoUdG.png  used on input line 36.
 (pdftex.def)             Requested size: 202.53781pt x 51.21504pt.
  [1
 
@@ -493,94 +508,101 @@ Package pdftex.def Info: images//logoUdG.png  used on input line 34.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 \clearpage
+l.53 \clearpage
                 [1] (Introduccio.tex
-<images//llumVisible.png, id=124, 550.055pt x 172.14313pt>
+<images//llumVisible.png, id=119, 550.055pt x 172.14313pt>
 File: images//llumVisible.png Graphic file (type png)
 <use images//llumVisible.png>
 Package pdftex.def Info: images//llumVisible.png  used on input line 10.
 (pdftex.def)             Requested size: 284.52756pt x 89.04738pt.
-) [2
+) (HistoriaVLC.tex [2
 
- <./images//llumVisible.png>] (HistoriaVLC.tex
-<images//comunicacióLlum.png, id=132, 380.17032pt x 242.40562pt>
-File: images//comunicacióLlum.png Graphic file (type png)
-<use images//comunicacióLlum.png>
-Package pdftex.def Info: images//comunicacióLlum.png  used on input line 9.
-(pdftex.def)             Requested size: 227.62204pt x 145.14117pt.
-<images//refluxiototal.png, id=133, 197.23688pt x 123.46124pt>
+ <./images//llumVisible.png>]
+<images//refluxiototal.png, id=127, 197.23688pt x 123.46124pt>
 File: images//refluxiototal.png Graphic file (type png)
 <use images//refluxiototal.png>
-Package pdftex.def Info: images//refluxiototal.png  used on input line 22.
+Package pdftex.def Info: images//refluxiototal.png  used on input line 10.
 (pdftex.def)             Requested size: 227.62204pt x 142.48228pt.
- [3
-
- <./images//comunicacióLlum.png> <./images//refluxiototal.png>]) [4] (LiFi.tex
-<images//lifi.png, id=146, 395.97937pt x 265.74281pt>
+) [3 <./images//refluxiototal.png>] (LiFi.tex
+<images//lifi.png, id=136, 395.97937pt x 265.74281pt>
 File: images//lifi.png Graphic file (type png)
 <use images//lifi.png>
 Package pdftex.def Info: images//lifi.png  used on input line 11.
 (pdftex.def)             Requested size: 227.62204pt x 152.76038pt.
- [5
+ [4
 
  <./images//lifi.png>]
-Overfull \hbox (317.00723pt too wide) in paragraph at lines 57--75
+Underfull \hbox (badness 1997) in paragraph at lines 76--76
+[]|\OT1/cmr/m/n/10 Densitat de
+ []
+
+
+Overfull \hbox (3.16666pt too wide) in paragraph at lines 79--79
+[]|\OT1/cmr/m/n/10 Interfer^^Rencies| 
+ []
+
+
+Overfull \hbox (17.35652pt too wide) in paragraph at lines 63--89
  [][] 
  []
 
-<images//LiFiMAX.png, id=155, 139.01938pt x 156.585pt>
+<images//lifimaxaa.png, id=145, 526.96875pt x 351.3125pt>
+File: images//lifimaxaa.png Graphic file (type png)
+<use images//lifimaxaa.png>
+Package pdftex.def Info: images//lifimaxaa.png  used on input line 104.
+(pdftex.def)             Requested size: 227.62204pt x 151.74757pt.
+[5 <./images//lifimaxaa.png>]
+<images//LiFiMAX.png, id=154, 139.01938pt x 156.585pt>
 File: images//LiFiMAX.png Graphic file (type png)
 <use images//LiFiMAX.png>
-Package pdftex.def Info: images//LiFiMAX.png  used on input line 98.
+Package pdftex.def Info: images//LiFiMAX.png  used on input line 117.
 (pdftex.def)             Requested size: 113.81102pt x 128.19266pt.
-[6 <./images//LiFiMAX.png>]
-<images//producteslifi.png, id=170, 568.1225pt x 238.39063pt>
+<images//producteslifi.png, id=155, 568.1225pt x 238.39063pt>
 File: images//producteslifi.png Graphic file (type png)
 <use images//producteslifi.png>
-Package pdftex.def Info: images//producteslifi.png  used on input line 112.
+Package pdftex.def Info: images//producteslifi.png  used on input line 131.
 (pdftex.def)             Requested size: 227.62204pt x 95.5146pt.
-) [7 <./images//producteslifi.png>] (MercatVLC.tex
-<images//visiogeneralVLC.png, id=178, 399.4925pt x 309.155pt>
+) (MercatVLC.tex
+<images//visiogeneralVLC.png, id=156, 399.4925pt x 309.155pt>
 File: images//visiogeneralVLC.png Graphic file (type png)
 <use images//visiogeneralVLC.png>
 Package pdftex.def Info: images//visiogeneralVLC.png  used on input line 10.
 (pdftex.def)             Requested size: 227.62204pt x 176.14941pt.
-<images//futurMundial.png, id=179, 494.59781pt x 270.25969pt>
-File: images//futurMundial.png Graphic file (type png)
-<use images//futurMundial.png>
-Package pdftex.def Info: images//futurMundial.png  used on input line 28.
-(pdftex.def)             Requested size: 227.62204pt x 124.37456pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [8
-
- <./images//visiogeneralVLC.png>] [9 <./images//futurMundial.png>] (Conclusio.tex) [10
+[6 <./images//LiFiMAX.png> <./images//producteslifi.png>]
+<images//futurMundial.png, id=168, 494.59781pt x 270.25969pt>
+File: images//futurMundial.png Graphic file (type png)
+<use images//futurMundial.png>
+Package pdftex.def Info: images//futurMundial.png  used on input line 28.
+(pdftex.def)             Requested size: 284.52756pt x 155.47234pt.
+) [7 <./images//visiogeneralVLC.png> <./images//futurMundial.png>] (Conclusio.tex) [8
 
 ] (Bibliografies.tex)
-Overfull \hbox (46.00154pt too wide) in paragraph at lines 2--72
+Overfull \hbox (46.00154pt too wide) in paragraph at lines 2--74
 []$\OT1/cmtt/m/n/10 https : / / www . maximizemarketresearch . com / market-[]report / global-[]visible-[]light-[]communication-[]market /
  []
 
-[11
+[9
 
 ] (latex.aux)
 Package rerunfilecheck Info: File `latex.out' has not changed.
-(rerunfilecheck)             Checksum: B1142B0BB188421E756B3EEA478C3732;3846.
+(rerunfilecheck)             Checksum: 256229DBBFA0DDC10A545907D06ABD34;3593.
  ) 
 Here is how much of TeX's memory you used:
- 15003 strings out of 475385
- 244476 string characters out of 2776908
- 633527 words of memory out of 3000000
- 36125 multiletter control sequences out of 15000+600000
+ 15122 strings out of 475385
+ 246588 string characters out of 2776908
+ 636952 words of memory out of 3000000
+ 36243 multiletter control sequences out of 15000+600000
  472946 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,79p,1205b,590s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,79p,871b,568s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\sudan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on latex.pdf (12 pages, 1221002 bytes).
+Output written on latex.pdf (10 pages, 1472551 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,20 +3,19 @@
 \contentsline {subsection}{Introducció}{2}{section*.2}%
 \contentsline {subsection}{Tecnologies inalàmbriques}{2}{section*.4}%
 \contentsline {section}{\numberline {2}Historia de VLC}{3}{section.2}%
-\contentsline {subsection}{Senyal del far}{3}{section*.5}%
-\contentsline {subsection}{1841: Descubriment de Reflexió total}{3}{section*.7}%
-\contentsline {subsection}{Primer LED Li-Fi}{4}{section*.9}%
-\contentsline {subsection}{Altres treballs recents}{4}{section*.10}%
-\contentsline {section}{\numberline {3}Li-Fi, el futur de les comunicacions VLC}{5}{section.3}%
-\contentsline {subsection}{Què és la tecnologia Li-Fi i com funciona?}{5}{section*.11}%
-\contentsline {subsection}{Avantatges de Li-Fi}{5}{section*.13}%
-\contentsline {subsection}{Incovenients de Li-Fi}{5}{section*.16}%
-\contentsline {subsection}{Wi-fi (Wireless Fidelity) vs Li-Fi (Light Fidelity)}{6}{section*.17}%
-\contentsline {subsection}{Productes Li-Fi}{6}{section*.19}%
-\contentsline {section}{\numberline {4}Mercat futur de VLC}{8}{section.4}%
-\contentsline {subsection}{Anàlisi de mercat VLC}{8}{section*.25}%
-\contentsline {subsection}{Tendències del mercat VLC}{8}{section*.27}%
-\contentsline {section}{\numberline {5}Conclusió}{10}{section.5}%
-\contentsline {subsection}{Què tan a prop estem de fer servir LiFi?}{10}{section*.29}%
-\contentsline {subsection}{Futur del Li-Fi}{10}{section*.30}%
-\contentsline {section}{\numberline {6}Bibliografies}{11}{section.6}%
+\contentsline {subsection}{Descubriment de Reflexió total en l'any 1841}{3}{section*.5}%
+\contentsline {subsection}{Generació de la fibra òptica}{3}{section*.7}%
+\contentsline {subsection}{La idea de Li-Fi}{3}{section*.10}%
+\contentsline {section}{\numberline {3}Li-Fi, el futur de les comunicacions VLC}{4}{section.3}%
+\contentsline {subsection}{Què és la tecnologia Li-Fi i com funciona?}{4}{section*.11}%
+\contentsline {subsection}{Avantatges de Li-Fi}{4}{section*.13}%
+\contentsline {subsection}{Incovenients de Li-Fi}{4}{section*.16}%
+\contentsline {subsection}{Wi-Fi vs Li-Fi}{5}{section*.17}%
+\contentsline {subsection}{Productes Li-Fi}{5}{section*.19}%
+\contentsline {section}{\numberline {4}Mercat futur de VLC}{6}{section.4}%
+\contentsline {subsection}{Anàlisi de mercat VLC}{6}{section*.26}%
+\contentsline {subsection}{Tendències del mercat VLC}{7}{section*.28}%
+\contentsline {section}{\numberline {5}Conclusió}{8}{section.5}%
+\contentsline {subsection}{Què tan a prop estem de fer servir LiFi?}{8}{section*.30}%
+\contentsline {subsection}{Futur del Li-Fi}{8}{section*.31}%
+\contentsline {section}{\numberline {6}Bibliografies}{9}{section.6}%
