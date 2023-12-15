@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1702247378 "c:/Users/sudan/Desktop/VLC-1/latex.tex" "latex.pdf" "latex" 1702247381 0
-  "Bibliografies.tex" 1702239256 468 dd65879a5441dcdb4b0903ed37c43143 ""
+["pdflatex"] 1702675539 "c:/Users/sudan/Desktop/VLC-1/latex.tex" "latex.pdf" "latex" 1702675542 0
+  "Bibliografies.tex" 1702664903 529 ad23b944bf99297301e04da9ec959bc7 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702220629 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1678227933 11548 9ce91f360de118aa3ee34ace75a41ff5 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1678195170 10788009 6cbd513670413a8237f6cb5812954744 ""
@@ -89,8 +89,8 @@
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/x11nam.def" 1656233290 9124 8aaebcf7eff7655936dd67b677fbd2b0 ""
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Conclusio.tex" 1702236941 1816 eee6b9740fe9a00d7c609ee83795ac82 ""
-  "HistoriaVLC.tex" 1702246515 5980 4660c1711d96dab32352d2526e6b0a1b ""
-  "Introduccio.tex" 1702237584 4851 1f6055d0949e3dd62b7c5ee409f451e8 ""
+  "HistoriaVLC.tex" 1702675534 4815 c2d9ccc6373e0ffb79ca17cb775fcabd ""
+  "Introduccio.tex" 1702664903 3223 11c85b923f58379a42b09673279890a9 ""
   "LiFi.tex" 1702247374 6450 ac7270dd73e08900d48f4e8c7f22e53d ""
   "MercatVLC.tex" 1702246542 2578 b1070cf84fbe393514ba5fcbd3073a34 ""
   "c:/Users/sudan/Desktop/VLC-1/latex.tex" 1702247348 1620 72b31e377a68c0ea7fff9f119f63d001 ""
@@ -101,11 +101,12 @@
   "images//llumVisible.png" 1702220333 82692 5d95046e4265080277c87dc303397f48 ""
   "images//logoUdG.png" 1702220333 17208 4d09bedbbcd79a53956ddc2008b7d78a ""
   "images//producteslifi.png" 1702237041 191997 d11a1582c271010c1a63516460426364 ""
+  "images//refluxiototal.png" 1702664903 33679 f580a5dd8736547d2669730630ba6105 ""
   "images//visiogeneralVLC.png" 1702220333 326141 9361ca97e623b307f46541eabca9680e ""
-  "latex.aux" 1702247381 4542 1f6343f4c1fae53dcea0690922cd3cef "pdflatex"
-  "latex.out" 1702247381 3979 0669aaf18c1dda0cec402890f8e320d9 "pdflatex"
+  "latex.aux" 1702675541 4590 2f65015226d5da4068a2d43acc518ecb "pdflatex"
+  "latex.out" 1702675541 3846 b1142b0bb188421e756b3eea478c3732 "pdflatex"
   "latex.tex" 1702247348 1620 72b31e377a68c0ea7fff9f119f63d001 ""
-  "latex.toc" 1702247381 1633 86d2b2e66245acc8cdc785ddcea30c05 "pdflatex"
+  "latex.toc" 1702675541 1574 a4a50a2134825db8acf560573675ae48 "pdflatex"
   (generated)
   "latex.aux"
   "latex.log"
