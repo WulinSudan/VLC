@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702680773 "c:/Users/sudan/Desktop/VLC/latex.tex" "latex.pdf" "latex" 1702680777 0
+["pdflatex"] 1702726144 "c:/Users/sudan/Desktop/VLC/latex.tex" "latex.pdf" "latex" 1702726147 0
   "Bibliografies.tex" 1702675743 529 ad23b944bf99297301e04da9ec959bc7 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702677632 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1678227933 11548 9ce91f360de118aa3ee34ace75a41ff5 ""
@@ -91,9 +91,9 @@
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/x11nam.def" 1656233290 9124 8aaebcf7eff7655936dd67b677fbd2b0 ""
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Conclusio.tex" 1702679708 1817 f4e8f89dec376278c14eff5c02dbcdf9 ""
-  "HistoriaVLC.tex" 1702676354 2241 540d7113f2f31e6ebf1ac59b80836e35 ""
+  "HistoriaVLC.tex" 1702726143 2257 b0ebabc95e4f89a59e864f76728610b3 ""
   "Introduccio.tex" 1702675743 3223 11c85b923f58379a42b09673279890a9 ""
-  "LiFi.tex" 1702680772 7411 b5858d039ec9e5cd7dbc232138d4115e ""
+  "LiFi.tex" 1702726053 7411 b5858d039ec9e5cd7dbc232138d4115e ""
   "MercatVLC.tex" 1702680005 2579 9ae4ddf50427b8f787de2c3d2816e74b ""
   "c:/Users/sudan/Desktop/VLC/latex.tex" 1702680564 1642 9c870eb51dbfd0eb38829dde85d846d0 ""
   "images//LiFiMAX.png" 1702675743 50873 17d907df71dde40daf62fc9bb0ae87e8 ""
@@ -105,10 +105,10 @@
   "images//producteslifi.png" 1702675743 191997 d11a1582c271010c1a63516460426364 ""
   "images//refluxiototal.png" 1702675743 33679 f580a5dd8736547d2669730630ba6105 ""
   "images//visiogeneralVLC.png" 1702675743 326141 9361ca97e623b307f46541eabca9680e ""
-  "latex.aux" 1702680776 4151 5a1ae1ec6b1f4f68b5cee7495187e2bc "pdflatex"
-  "latex.out" 1702680776 3593 256229dbbfa0ddc10a545907d06abd34 "pdflatex"
+  "latex.aux" 1702726147 4151 5a1ae1ec6b1f4f68b5cee7495187e2bc "pdflatex"
+  "latex.out" 1702726147 3593 256229dbbfa0ddc10a545907d06abd34 "pdflatex"
   "latex.tex" 1702680564 1642 9c870eb51dbfd0eb38829dde85d846d0 ""
-  "latex.toc" 1702680776 1489 a12877bdb5c9ffa55b8e733c78138464 "pdflatex"
+  "latex.toc" 1702726147 1489 a12877bdb5c9ffa55b8e733c78138464 "pdflatex"
   (generated)
   "latex.aux"
   "latex.log"
