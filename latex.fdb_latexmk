@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702729945 "c:/Users/sudan/Desktop/VLC/latex.tex" "latex.pdf" "latex" 1702729949 0
+["pdflatex"] 1702818660 "c:/Users/sudan/Desktop/VLC/latex.tex" "latex.pdf" "latex" 1702818663 0
   "Bibliografies.tex" 1702675743 529 ad23b944bf99297301e04da9ec959bc7 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702677632 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1678227933 11548 9ce91f360de118aa3ee34ace75a41ff5 ""
@@ -92,7 +92,7 @@
   "C:/Users/sudan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Conclusio.tex" 1702679708 1817 f4e8f89dec376278c14eff5c02dbcdf9 ""
   "HistoriaVLC.tex" 1702726476 2257 b0ebabc95e4f89a59e864f76728610b3 ""
-  "Introduccio.tex" 1702675743 3223 11c85b923f58379a42b09673279890a9 ""
+  "Introduccio.tex" 1702818659 3223 2cdfdffe2b1c9b617ca06ff164623488 ""
   "LiFi.tex" 1702729944 7401 e59967fe5400309190cc840361556dc0 ""
   "MercatVLC.tex" 1702680005 2579 9ae4ddf50427b8f787de2c3d2816e74b ""
   "c:/Users/sudan/Desktop/VLC/latex.tex" 1702728050 1642 9c870eb51dbfd0eb38829dde85d846d0 ""
@@ -105,10 +105,10 @@
   "images//producteslifi.png" 1702675743 191997 d11a1582c271010c1a63516460426364 ""
   "images//refluxiototal.png" 1702675743 33679 f580a5dd8736547d2669730630ba6105 ""
   "images//visiogeneralVLC.png" 1702675743 326141 9361ca97e623b307f46541eabca9680e ""
-  "latex.aux" 1702729948 4151 5a1ae1ec6b1f4f68b5cee7495187e2bc "pdflatex"
-  "latex.out" 1702729948 3593 256229dbbfa0ddc10a545907d06abd34 "pdflatex"
+  "latex.aux" 1702818663 4151 5a1ae1ec6b1f4f68b5cee7495187e2bc "pdflatex"
+  "latex.out" 1702818663 3593 256229dbbfa0ddc10a545907d06abd34 "pdflatex"
   "latex.tex" 1702728050 1642 9c870eb51dbfd0eb38829dde85d846d0 ""
-  "latex.toc" 1702729948 1489 a12877bdb5c9ffa55b8e733c78138464 "pdflatex"
+  "latex.toc" 1702818663 1489 a12877bdb5c9ffa55b8e733c78138464 "pdflatex"
   (generated)
   "latex.aux"
   "latex.log"
